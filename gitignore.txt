@@ -2,3 +2,4 @@ a.pdf
 directory/*
 *.pdf
 *_modified.txt
+!b.pdf
